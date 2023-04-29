@@ -1,0 +1,12 @@
+name = Shadow Marksmen
+author = Shawn, Hazel
+description = Invisible friendly marksman support - will shoot anything you point at. E + Left Click = Receive suppressed support. H + Left Click = Receive unsuppressed support, a little slower than suppressed support.
+tags = Tool
+
+# If description contains [noupload] the description on Steam workshop will not be overwritten.
+# Available tags (comma-separated):
+# Map      - A custom map with no particular gameplay
+# Gameplay - Mod has a mission, objective or other gameplay
+# Asset    - A collection of assets for others to use
+# Vehicle  - Mod contains drivable, custom vehicles
+# Tool     - Mod adds a custom weapon or other tool
