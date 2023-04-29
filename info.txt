@@ -1,7 +1,7 @@
-name = Shadow Marksmen
-author = Shawn, Hazel
-description = Invisible friendly marksman support - will shoot anything you point at. E + Left Click = Receive suppressed support. H + Left Click = Receive unsuppressed support, a little slower than suppressed support.
-tags = Tool
+name = Rooftop Sniper
+author = Shawn
+description = UwU, rör mä int
+tags= Tool
 
 # If description contains [noupload] the description on Steam workshop will not be overwritten.
 # Available tags (comma-separated):
